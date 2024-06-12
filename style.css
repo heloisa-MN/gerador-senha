@@ -51,6 +51,7 @@ body {
    color: var(--branco);
    font-family: var(--roboto-mono);
    font-size: 40px;
+   width: 70%;
 }
 
 #campo-senha:focus {
@@ -86,6 +87,17 @@ body {
     justify-content: center;
 }
     
+@media screen and (min-width: 768px) {
+    .parametro-coluna__senha{
+        flex-direction: row;
+    }
+}
+
+.parametro-senha{
+    width: 50%;
+    margin: 0 auto;
+}
+
 
 
 
