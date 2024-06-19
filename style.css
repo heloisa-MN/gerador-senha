@@ -20,7 +20,8 @@
 
 body {
    color: var(--branco);
-  background-image: url(./fundo.jpeg) no-repeat;
+  background-image: url(./fundo.jpeg) ;
+  background-size: 100%;
 }
 
 .titulo-principal {
