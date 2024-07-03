@@ -20,7 +20,7 @@
 
 body {
    color: var(--branco);
-  background-image: url(./FUNDO2.jpeg) ;
+ background-color: #00162E;
  background-size: 100%;
   background-repeat: no-repeat;
 }
