@@ -20,7 +20,7 @@
 
 body {
    color: var(--branco);
- background-color:var(--cor-de-fundo)
+ background-color:var(--cor-de-fundo);
  background-size: 100%;
   background-repeat: no-repeat;
 }
